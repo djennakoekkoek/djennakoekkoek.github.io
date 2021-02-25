@@ -146,12 +146,18 @@ article {
 	width: 100%;
 }
 
-.cupcakecard {
+.cupcakecard, .cupcakecard-detail
+{
 	background: white;
 	margin-bottom: 2em;
 	padding: 1.4em;
 }
-.cupcakecard a { 
+.cupcakecard-detail {
+	box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+	width: 50%;	
+}
+
+.cupcakecard a {
 	color: #818181;
 	text-decoration: none;
 }
