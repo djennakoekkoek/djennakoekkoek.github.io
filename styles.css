@@ -152,6 +152,7 @@ article {
 	padding: 1.4em;
 }
 .cupcakecard a { 
+	color: #818181;
 	text-decoration: none;
 }
 .cupcakecard a:hover {
