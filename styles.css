@@ -169,7 +169,7 @@ article {
 .cupcakecard p {
 	font-size: 0.75em;
 }
-.cupcakecard>img {
+.cupcakecard a>img {
 	width:90%;
 }
 
