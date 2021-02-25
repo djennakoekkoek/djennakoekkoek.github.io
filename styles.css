@@ -146,28 +146,28 @@ article {
 	width: 100%;
 }
 
-.cupcakecard {
+a.cupcakecard {
 	background: white;
 	margin-bottom: 2em;
 	padding: 1.4em;
 }
 
 
-.cupcakecard:hover {
+a.cupcakecard:hover {
 	box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
 }
 
 
-.cupcakecard h3 {
+a.cupcakecard h3 {
 	margin-top: 0;
 	margin-bottom: .5em;
 	font-weight: normal;
 }
 
-.cupcakecard p {
+a.cupcakecard p {
 	font-size: 0.75em;
 }
-.cupcakecard>img {
+a.cupcakecard>img {
 	width:90%;
 }
 
@@ -180,7 +180,7 @@ article {
         margin-top: -1em;
     }
 
-    .cupcakecard {
+    a.cupcakecard {
         flex: 0 1 calc(50% - .5em);
         margin-bottom: 1em;
     }
@@ -191,7 +191,7 @@ article {
         margin-top: inherit;
     }
 
-    .cupcakecard {
+    a.cupcakecard {
         flex: 0 1 calc(25% - 1em);
         margin-bottom: 2em;
     }
