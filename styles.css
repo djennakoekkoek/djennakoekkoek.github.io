@@ -151,9 +151,10 @@ article {
 	margin-bottom: 2em;
 	padding: 1.4em;
 }
-
-
-.cupcakecard:hover {
+.cupcakecard a { 
+	text-decoration: none;
+}
+.cupcakecard a:hover {
 	box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
 }
 
