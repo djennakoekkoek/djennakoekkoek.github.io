@@ -155,7 +155,7 @@ article {
 	color: #818181;
 	text-decoration: none;
 }
-.cupcakecard a:hover {
+.cupcakecard:hover {
 	box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
 }
 
