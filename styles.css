@@ -146,28 +146,28 @@ article {
 	width: 100%;
 }
 
-a.cupcakecard {
+.cupcakecard {
 	background: white;
 	margin-bottom: 2em;
 	padding: 1.4em;
 }
 
 
-a.cupcakecard:hover {
+.cupcakecard:hover {
 	box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
 }
 
 
-a.cupcakecard h3 {
+.cupcakecard h3 {
 	margin-top: 0;
 	margin-bottom: .5em;
 	font-weight: normal;
 }
 
-a.cupcakecard p {
+.cupcakecard p {
 	font-size: 0.75em;
 }
-a.cupcakecard>img {
+.cupcakecard>img {
 	width:90%;
 }
 
@@ -180,7 +180,7 @@ a.cupcakecard>img {
         margin-top: -1em;
     }
 
-    a.cupcakecard {
+    .cupcakecard {
         flex: 0 1 calc(50% - .5em);
         margin-bottom: 1em;
     }
@@ -191,7 +191,7 @@ a.cupcakecard>img {
         margin-top: inherit;
     }
 
-    a.cupcakecard {
+    .cupcakecard {
         flex: 0 1 calc(25% - 1em);
         margin-bottom: 2em;
     }
